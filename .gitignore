@@ -1,0 +1,13 @@
+
+# Maven
+target/
+
+# Eclipse workspace
+.metadata/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
